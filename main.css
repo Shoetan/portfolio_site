@@ -80,15 +80,6 @@ body{
 
 
 
-/* .hero_contents{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 95%;
-    margin: auto;
-    height: auto;
-} */
-
 .hero_contents{
     width: 95%;
     margin: auto;
@@ -145,8 +136,6 @@ body{
 .about_container ,.projects_container, .contact_container,.footer_container{
     max-width: 92%;
     margin: auto;
-    /* border: 1px solid green; */
-    /* background: var(--white); */
     border-radius: 5px;
     
 }
@@ -411,9 +400,10 @@ footer{
   .contact_form_container{
       width: 100%;
   }
-  
 
-
+  .contents{
+      margin-top: 80px;
+  }
 
 
 
