@@ -115,6 +115,7 @@ body{
     color:var(--grey);
     margin-top:20px;
     margin-bottom: 60px;
+    line-height: 2;
 }
 
 .contents a{
